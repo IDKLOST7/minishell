@@ -1,0 +1,8 @@
+# Exclude the compiled binary executable
+minishell
+
+# Exclude object files
+*.o
+
+# Exclude system-specific temporary files
+.DS_Store
